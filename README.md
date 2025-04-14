@@ -85,10 +85,9 @@ Find the full research write-up in reaserch paper, including methodology, analys
 
 ## Authors
 
-- Parth D Pawar  
-- Aman Khanthalia  
+- Parth Pawar     
 - Manish  
-- Lakshit  
+
 
 B.Tech CSE, MIT — Semester IV
 
