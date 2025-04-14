@@ -79,9 +79,9 @@ This project demonstrates how to transmit text using Morse code over a laser bea
 - Mobile app interface for control and display
 - AI-based error correction and adaptive encoding
 
-## 📖 Documentation
+## Documentation
 
-Find the full research write-up in [`docs/ResearchPaper.pdf`](docs/ResearchPaper.pdf), including methodology, analysis, and references.
+Find the full research write-up in reaserch paper, including methodology, analysis, and references.
 
 ## Authors
 
@@ -92,6 +92,4 @@ Find the full research write-up in [`docs/ResearchPaper.pdf`](docs/ResearchPaper
 
 B.Tech CSE, MIT — Semester IV
 
-## 📜 License
 
-This project is licensed under the MIT License. See `LICENSE` for more information.
