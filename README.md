@@ -1,6 +1,7 @@
 #  Laser Transceiver Morse Code System
 
-A communication system using **Arduino**, **laser modules**, and **photoresistors** to send and decode Morse code messages via light signals. This project bridges old-school Morse code with modern embedded systems for wireless optical communication.
+A communication system using **Arduino**, **laser modules**, and **photoresistors** to send and decode Morse code messages via light signals. 
+This project bridges old-school Morse code with modern embedded systems for wireless optical communication.
 
 ##  Overview
 
